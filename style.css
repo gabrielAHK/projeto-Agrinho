@@ -31,8 +31,8 @@ padding: 0;
 }
 
 .imagemcabeçalho{
-    width: 140px;
-    height: 140px;
+    width: 130px;
+    height: 130px;
     margin: 10px auto auto 3cm;
     border: solid var(--cor-principal);
     padding: 1cm;
@@ -116,14 +116,6 @@ padding: 0;
     color: var(--cor-principal);
 }
 
-.subtitulo1segundasecao:hover{
-    color: rgb(5, 0, 80);
-}
-
-.subtitulo1segundasecao:active{
-color: rgb(18, 0, 121);
-}
-
 .primeirotextosegundasecao{
     font-family: var(--font-principal-textos);
     font-size: 38px;
@@ -134,8 +126,22 @@ color: rgb(18, 0, 121);
 .segundotextosegundasecao{
     font-family: var(--font-principal-textos);
     font-size: 38px;
-    margin: 1cm 2cm 0 2cm;
+    margin: 1cm 2cm 0 2cmcm;
     text-align: center;
+}
+
+.botao{
+    padding: 20px;
+    background-color: var(--verde-principal);
+    border-radius: 25px;
+    margin: 0cm 12cm 1cm 12cm;
+    font-family: var(--font-principal-textos);
+    font-size: 28px;
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    color: var(--cor-principal);
+    border: solid black;
 }
 
 .div2segundasecao{
@@ -147,14 +153,14 @@ color: rgb(18, 0, 121);
     font-family: var(--font-principal-textos);
     font-size: 38px;
     text-align: center;
-    margin: 43px 0 0 2cm;
+    margin: 20px 0 20px 2cm;
     font-weight: 900;
 }
 
 .imagem3segundasecao{
  width: 40%;
 display: block;
-margin: 0px auto 0 30px;
+margin: 0px auto 0 auto;
 }
 
 .tituloampulheta{
