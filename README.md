@@ -4,6 +4,6 @@
  O site conta com estilizações e div's, clicando no botão você será direcionado para a cordenada onde ocorre a Feira do Agricultor descrita no site.
  Há também botões clicaveis no rodapé do site além de diversas "sections", cabeçalho, rodapé e outros elementos.
 
- # Autores:
+ # Autor:
 
 Gabriel Augusto Honesko
